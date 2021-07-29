@@ -1,0 +1,212 @@
+Gruul	Hammer of the Naaru
+Gruul	Belt of Divine Inspiration
+Gruul	Malefic Mask of the Shadows
+Gruul	Maulgar's Warhelm
+Gruul	Bladespire Warbands
+Gruul	Brute Cloak of the Ogre-Magi
+Gruul	Pauldrons of the Fallen Champion
+Gruul	Pauldrons of the Fallen Champion Offspec 1
+Gruul	Pauldrons of the Fallen Champion Offspec 2
+Gruul	Pauldrons of the Fallen Defender
+Gruul	Pauldrons of the Fallen Defender Offspec 1
+Gruul	Pauldrons of the Fallen Defender Offspec 2
+Gruul	Pauldrons of the Fallen Hero
+Gruul	Aldori Legacy Defender
+Gruul	Shuriken of Negation
+Gruul	Axe of the Gronn Lords
+Gruul	Bloodmaw Magus-Blade
+Gruul	Collar of Cho'gall
+Gruul	Cowl of Nature's Breath
+Gruul	Gronn-Stitched Girdle
+Gruul	Gauntlets of the Dragonslayer
+Gruul	Windshear Boots
+Gruul	Gauntlets of Martial Perfection
+Gruul	Dragonspine Trophy
+Gruul	Eye of Gruul
+Gruul	Teeth of Gruul
+Gruul	Leggings of the Fallen Champion
+Gruul	Leggings of the Fallen Champion Offspec 1
+Gruul	Leggings of the Fallen Champion Offspec 2
+Gruul	Leggings of the Fallen Defender
+Gruul	Leggings of the Fallen Defender Offspec 1
+Gruul	Leggings of the Fallen Defender Offspec 2
+Gruul	Leggings of the Fallen Hero
+Mag	Glaive of the Pit
+Mag	Aegis of the Vindicator
+Mag	Crystalheart Pulse-Staff
+Mag	Eredar Wand of Obliteration
+Mag	Soul-Eater's Handwraps
+Mag	Liar's Tongue Gloves
+Mag	Terror Pit Girdle
+Mag	Girdle of the Endless Pit
+Mag	Thundering Greathelm
+Mag	Cloak of the Pit Stalker
+Mag	Eye of Magtheridon
+Mag	Karaborian Talisman
+Mag	Chestguard of the Fallen Champion
+Mag	Chestguard of the Fallen Champion Offspec 1
+Mag	Chestguard of the Fallen Champion Offspec 2
+Mag	Chestguard of the Fallen Defender
+Mag	Chestguard of the Fallen Defender Offspec 1
+Mag	Chestguard of the Fallen Defender Offspec 2
+Mag	Chestguard of the Fallen Hero
+Mag	Magtheridon's Head
+SSC	Wildfury Greatstaff
+SSC	Serpentshrine Shuriken
+SSC	Boots of Courage Unending
+SSC	Pendant of the Perilous
+SSC	Spyglass of the Hidden Fleet
+SSC	Totem of the Maelstrom
+SSC	Boots of the Shifting Nightmare
+SSC	Robe of Hateful Echoes
+SSC	Band of Vile Aggression
+SSC	Wraps of Purification
+SSC	Shoulderpads of the Stranger
+SSC	Blackfathom Warbands
+SSC	Ranger-General's Chestguard
+SSC	Brighthelm of Justice
+SSC	Pauldrons of the Wardancer
+SSC	Fathomstone
+SSC	Idol of the Crescent Goddess
+SSC	Living Root of the Wildheart
+SSC	The Seal of Danzalar
+SSC	Ring of Lethality
+SSC	Scarab of Displacement
+SSC	Mallet of the Tides
+SSC	Cord of Screaming Terrors
+SSC	Velvet Boots of the Guardian
+SSC	Boots of Effortless Striking
+SSC	Grove-Bands of Remulos
+SSC	Tempest-Strider Boots
+SSC	Bracers of Eradication
+SSC	Glowing Breastplate of Truth
+SSC	Ancestral Ring of Conquest
+SSC	Choker of Animalistic Fury
+SSC	Earring of Soulful Meditation
+SSC	Libram of Absolute Truth
+SSC	Fang of the Leviathan
+SSC	Orca-Hide Boots
+SSC	Coral-Barbed Shoulderpads
+SSC	True-Aim Stalker Bands
+SSC	Girdle of the Invulnerable
+SSC	Tsunami Talisman
+SSC	Gloves of the Vanquished Champion
+SSC	Gloves of the Vanquished Champion Offspec 1
+SSC	Gloves of the Vanquished Champion Offspec 2
+SSC	Gloves of the Vanquished Defender
+SSC	Gloves of the Vanquished Defender Offspec 1
+SSC	Gloves of the Vanquished Defender Offspec 2
+SSC	Gloves of the Vanquished Hero
+SSC	World Breaker
+SSC	Soul-Strider Boots
+SSC	Bloodsea Brigand's Vest
+SSC	Fathom-Brooch of the Tidewalker
+SSC	Frayed Tether of the Drowned
+SSC	Sextant of Unstable Currents
+SSC	Leggings of the Vanquished Champion
+SSC	Leggings of the Vanquished Champion Offspec 1
+SSC	Leggings of the Vanquished Champion Offspec 2
+SSC	Leggings of the Vanquished Defender
+SSC	Leggings of the Vanquished Defender Offspec 1
+SSC	Leggings of the Vanquished Defender Offspec 2
+SSC	Leggings of the Vanquished Hero
+SSC	Luminescent Rod of the Naaru
+SSC	Band of the Vigilant
+SSC	Talon of Azshara
+SSC	Illidari Shoulderpads
+SSC	Gnarled Chestpiece of the Ancients
+SSC	Girdle of the Tidal Call
+SSC	Mantle of the Tireless Tracker
+SSC	Pauldrons of the Argent Sentinel
+SSC	Warboots of Obliteration
+SSC	Razor-Scale Battlecloak
+SSC	Pendant of the Lost Ages
+SSC	Ring of Sundered Souls
+SSC	Serpent-Coil Braid
+SSC	Fang of Vashj
+SSC	Lightfathom Scepter
+SSC	Serpent Spine Longbow
+SSC	Vestments of the Sea-Witch
+SSC	Belt of One-Hundred Deaths
+SSC	Runetotem's Mantle
+SSC	Cobra-Lash Boots
+SSC	Glorious Gauntlets of Crestfall
+SSC	Krakken-Heart Breastplate
+SSC	Coral Band of the Revived
+SSC	Prism of Inner Calm
+SSC	Ring of Endless Coils
+SSC	Helm of the Vanquished Champion
+SSC	Helm of the Vanquished Champion Offspec 1
+SSC	Helm of the Vanquished Champion Offspec 2
+SSC	Helm of the Vanquished Defender
+SSC	Helm of the Vanquished Defender Offspec 1
+SSC	Helm of the Vanquished Defender Offspec 2
+SSC	Helm of the Vanquished Hero
+TK	Fire-Cord of the Magus
+TK	Mantle of the Elven Kings
+TK	Bark-Gloves of Ancient Wisdom
+TK	Bands of the Celestial Archer
+TK	Girdle of Fallen Stars
+TK	Seventh Ring of the Tirisfalen
+TK	Arcanite Steam-Pistol
+TK	Claw of the Phoenix
+TK	Talon of the Phoenix
+TK	Netherbane
+TK	Netherbane 2
+TK	Mindstorm Wristbands
+TK	Gloves of the Searing Grip
+TK	Fire Crest Breastplate
+TK	Phoenix-Wing Cloak
+TK	Band of Al'ar
+TK	Phoenix-Ring of Rebirth
+TK	Talisman of the Sun King
+TK	Talon of Al'ar
+TK	Tome of Fiery Redemption
+TK	Cowl of the Grand Engineer
+TK	Girdle of Zaetar
+TK	Void Reaver Greaves
+TK	Fel-Steel Warhelm
+TK	Wristguards of Determination
+TK	Fel Reaver's Piston
+TK	Warp-Spring Coil
+TK	Pauldrons of the Vanquished Champion
+TK	Pauldrons of the Vanquished Champion Offspec 1
+TK	Pauldrons of the Vanquished Champion Offspec 2
+TK	Pauldrons of the Vanquished Defender
+TK	Pauldrons of the Vanquished Defender Offspec 1
+TK	Pauldrons of the Vanquished Defender Offspec 2
+TK	Pauldrons of the Vanquished Hero
+TK	Ethereum Life-Staff
+TK	Heartrazor
+TK	Wand of the Forgotten Star
+TK	Star-Soul Breeches
+TK	Trousers of the Astromancer
+TK	Vambraces of Ending
+TK	Star-Strider Boots
+TK	Worldstorm Gauntlets
+TK	Boots of the Resilient
+TK	Girdle of the Righteous Path
+TK	Greaves of the Bloodwarder
+TK	Solarian's Sapphire
+TK	Void Star Talisman
+TK	Rod of the Sun King
+TK	The Nexus Key
+TK	Twinblade of the Phoenix
+TK	Crown of the Sun
+TK	Gauntlets of the Sun King
+TK	Leggings of Murderous Intent
+TK	Sunhawk Leggings
+TK	Royal Gauntlets of Silvermoon
+TK	Royal Cloak of the Sunstriders
+TK	Sunshower Light Cloak
+TK	Thalassian Wildercloak
+TK	Band of the Ranger-General
+TK	Chestguard of the Vanquished Champion
+TK	Chestguard of the Vanquished Champion Offspec 1
+TK	Chestguard of the Vanquished Champion Offspec 2
+TK	Chestguard of the Vanquished Defender
+TK	Chestguard of the Vanquished Defender Offspec 1
+TK	Chestguard of the Vanquished Defender Offspec 2
+TK	Chestguard of the Vanquished Hero
+TK	Ashes of Al'ar
+TK	Verdant Sphere

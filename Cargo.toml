@@ -1,0 +1,11 @@
+[package]
+name = "dft-cains"
+version = "0.0.1"
+authors = [ "Terry Gehennas <vonpostable@gmail.com>" ]
+edition = "2018"
+[dependencies]
+sqlx = { version = "0.5.5", features = [ "runtime-async-std-native-tls", "postgres", "time"] }
+async-std = { version = "1.9.0", features = [ "attributes" ] }
+anyhow = "1.0.42"
+polars = "0.14.8"
+time = "0.2.27"
