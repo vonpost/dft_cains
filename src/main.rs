@@ -26,7 +26,7 @@ async fn main() -> anyhow::Result<()> {
     // fill up database with items
     // populate_users(&pool, "users_text.txt").await?;
     // populate_items(&pool, "t4items.txt").await?;
-    // populate_loot_lists_csv(&pool, "../lootlists.csv").await?;
+    // populate_loot_lists_csv(&pool, "lootlists.csv").await?;
     // populate_past_raids(&pool, "past_raids.txt").await?;
     Ok(())
 }
